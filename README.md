@@ -1,7 +1,9 @@
 Kiva_Capstone
 ==============================
 
-Capstone project to predict which microloans on the Kiva platform will be funded and how quickly this will happen.
+Capstone project currently in progress to predict which microloans on the Kiva platform will be funded and how quickly this will happen.
+
+See the project proposal document in the reports folder for more detailed information about the project. 
 
 Project Organization
 ------------
